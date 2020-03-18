@@ -1,0 +1,67 @@
+<style>
+
+      .responsive {
+
+    max-width: 100%;
+
+    height: auto;
+
+  }
+
+  
+
+  .rotateimg90 {
+
+  -webkit-transform:rotate(90deg);
+
+  -moz-transform: rotate(90deg);
+
+  -ms-transform: rotate(90deg);
+
+  -o-transform: rotate(90deg);
+
+  transform: rotate(90deg);
+
+}
+
+      
+
+.topnav {
+
+  background-color: crimson;
+
+  overflow: hidden;
+
+  text-align: center;
+
+  
+
+}
+
+.topnav a {
+
+  float: left;
+
+  color: #f2f2f2;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+  font-size: 20px;
+
+}
+
+  
+
+.topnav a:hover {
+
+  background-color: white;
+
+  color: black;
+
+}      
+
+  </style>
