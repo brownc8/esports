@@ -63,9 +63,11 @@
   color: black;
 
 }      
-
 body {
   background-image: url('backgroundimage.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
   </style>
