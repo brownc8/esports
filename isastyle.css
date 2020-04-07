@@ -62,7 +62,11 @@
 
   color: black;
 
-}      
+}     
+h1{
+  color: white;
+      
+}
 body {
   background-image: url('backgroundimage.jpg');
   background-repeat: no-repeat;
