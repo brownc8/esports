@@ -101,23 +101,17 @@ body {
   background-size: cover;
   color:white;
 }
+/* Schedule page css */
 .column {
   float: left;
-  width: 25%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
+  width: 33.33%;
   padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
   </style>
