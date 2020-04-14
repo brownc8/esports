@@ -106,6 +106,7 @@ body {
   float: left;
   width: 25%;
   padding: 2px;
+  background-color:black;
 }
 
 /* Clear floats after image containers */
@@ -113,5 +114,7 @@ body {
   content: "";
   clear: both;
   display: inline;
+  background-color:black;
+
 }
   </style>
