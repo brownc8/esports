@@ -101,5 +101,17 @@ body {
   background-size: cover;
   color:white;
 }
+/* Schedule page css */
+.column {
+  float: left;
+  width: 25%;
+  padding: 2px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: inline;
+}
   </style>
