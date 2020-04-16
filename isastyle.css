@@ -189,6 +189,84 @@ body {
   background-size: cover;
   color:white;
 }
+
+/* About us CSS */
+.container {
+    width: 100%;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.miamilogo {
+    display: inline-block;
+    width: 184px;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.miamilogo img {
+    margin: auto;
+}
+
+.titleText{
+    display: inline-block;
+    margin: 5px auto 0 auto;
+    width: 60%;
+    height: 180px;
+}
+
+.staffMessage{
+    margin: auto;
+    text-align: center;
+    border-top: 2px solid crimson;
+}
+
+.staffMessage h3{
+    font-size: bold;
+}
+.staff {
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+    border-top: 2px solid crimson;
+}
+.staff div {
+    display: inline-block;
+    width: 22%;
+    padding: 5px;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.staff img{
+    height: 100%;
+    width: 100%;
+}
+
+.foot {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    border-top: 2px solid crimson;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  background-color:black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color:white;
+}
+
 /* Schedule page css */
 .column {
   float: left;
@@ -302,4 +380,6 @@ body {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
   </style>
