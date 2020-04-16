@@ -123,8 +123,6 @@ body, html {
             width: 100%; 
         /* Set a specific height */
   height: 50%;
-  box-shadow: 5px 10px;
-
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
