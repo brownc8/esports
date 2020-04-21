@@ -52,7 +52,8 @@
 }
 
 .topnav a {
-
+    
+  width: 20%;
   float: left;
 
   color: #f2f2f2;
