@@ -207,10 +207,7 @@ body {
   background-size: cover;
   color:white;
 }
-/* Schedule  CSS */
-.cal {
-      padding: 60px;
-}
+
 
 /* About us CSS */
 .container {
@@ -297,7 +294,9 @@ body {
   padding: 2px;
   background-color:black;
 }
-
+.cal {
+      width: 100%;
+}
 /* Clear floats after image containers */
 .row::after {
   content: "";
