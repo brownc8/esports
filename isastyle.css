@@ -207,6 +207,10 @@ body {
   background-size: cover;
   color:white;
 }
+/* Schedule  CSS */
+.cal {
+      padding: 20px;
+}
 
 /* About us CSS */
 .container {
